@@ -1,0 +1,1 @@
+T1|AI|supervised learning|supervised learning is when we use labeled data for training a model|IN_PROGRESS
